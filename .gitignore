@@ -1,0 +1,10 @@
+# Dictionaries
+/.idea/
+/.vscode/
+/node_modules/
+/allure-report/
+/allure-results/
+
+# Files
+*.tmp
+*.temp
